@@ -1,7 +1,6 @@
 public with sharing class DemoController {
     /**
      * An empty constructor for the testing
-     * Scott Riddler 5/23/18
      */
     public DemoController() {}
 

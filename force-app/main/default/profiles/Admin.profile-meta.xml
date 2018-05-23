@@ -11,7 +11,7 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Contact.Darden_Account__c</field>
+        <field>Contact.UVA_Computing_ID__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
